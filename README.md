@@ -5,9 +5,11 @@ This project simulates going through flashcards on the Command Line Interface. T
 
 ## Illustrations
 Running `npm test`
+
 ![Running tests on game](https://media.giphy.com/media/XsZqaIwJeAfeOYkSV5/giphy.gif)
 
 Running the application through the Command Line Interface
+
 ![Running game through the CLI](https://media.giphy.com/media/OuS9tYPNQmq7kaPzpw/giphy.gif)
 
 ## Technologies
