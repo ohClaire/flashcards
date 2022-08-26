@@ -31,4 +31,3 @@ Choosing this extension gave me the opportunity to learn more about how to hook 
 
 ## Project Specs
   - The project spec & rubric can be found [here.](https://frontend.turing.edu/projects/flash-cards.html)
-
