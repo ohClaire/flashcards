@@ -1,6 +1,4 @@
-const data = require('./data');
 const ReportCard = require('./ReportCard');
-const prototypeQuestions = data.prototypeData;
 const util = require('./util');
 
 
@@ -10,6 +8,7 @@ class Game {
   }
 
   start() {
+    console.log(this.currentRound)
     this.printMessage(this.currentRound.deck, this.currentRound);
     this.printQuestion(this.currentRound);
   }

@@ -1,6 +1,7 @@
 class Deck {
-  constructor(cards) {
-    this.cards = cards;
+  constructor(flashcards) {
+    
+    this.cards = flashcards.prototypeData;
   }
 
   countCards() {
